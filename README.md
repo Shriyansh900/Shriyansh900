@@ -25,7 +25,7 @@
 
 ### Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ShriyanshOzarkar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile) 
-[![Email](https://img.shields.io/badge/Email-shriyanshozarkar@example.com-red?style=flat&logo=gmail)](mailto:shriyanshozarkar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sozarkar7@gmail.com-red?style=flat&logo=gmail)](mailto:sozarkar7@gmail.com)
 
 ---
 
