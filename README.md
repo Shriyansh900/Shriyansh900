@@ -5,7 +5,7 @@
 ---
 
 **About Me:**
-- 📚 **Education**: BTech & Diploma in Electrical Engineering.
+- 📚 **Education**: Diploma & BTech in Electrical Engineering.
 - ⚙️ **Tech Stack**: MERN (MongoDB, Express.js, React.js, Node.js), C, C++.
 - 🌟 **Specialization**: Building web and mobile apps with a focus on performance and user experience.
 - ✌️ **Passion**: Crafting elegant solutions to challenging problems and always learning new technologies.
