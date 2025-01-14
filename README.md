@@ -1,6 +1,6 @@
 ### Hi there, I'm Shriyansh Ozarkar! ✨
 
-**Full-Stack Web & Mobile Developer | MERN Stack Enthusiast**  
+**Full-Stack Web & Mobile Developer | MERN Stack Deveploper**  
 
 ---
 
